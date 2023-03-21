@@ -1,0 +1,17 @@
+{
+    "name": "juandeleon/affirm-transactions-api-poc",
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Juandeleon\\AffirmTransactionsApiPoc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Juan De Leon",
+            "email": "juan.deleon@bigcommerce.com"
+        }
+    ]
+}
