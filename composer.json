@@ -5,7 +5,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Juandeleon\\AffirmTransactionsApiPoc\\": "src/"
+            "BigCommerce\\AffirmTransactionsApiPoc\\": "src/"
         }
     },
     "authors": [
